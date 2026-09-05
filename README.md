@@ -21,7 +21,6 @@ Hoje meu foco é continuar crescendo na área, ganhar cada vez mais experiência
 
 ### Mond
 
-**Design & Desenvolvimento Web**
 
 [Acessar Portfólio](https://mondweb.vercel.app/)
 
