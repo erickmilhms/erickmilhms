@@ -9,10 +9,9 @@
 
 ## Sobre
 
-Meu nome é **Erick**. Sou desenvolvedor e analista júnior, além de fundador da **Mond**. Trabalho com sites, interfaces e produtos digitais, sempre buscando unir identidade própria, performance e uma boa experiência de uso.
+Meu nome é **Erick**. Sou desenvolvedor e analista júnior. Também sou fundador da Mond, onde trabalho com criação de sites, interfaces e projetos web.
 
-Gosto de transformar ideias em projetos reais e de estudar tecnologia todos os dias. Meu objetivo é continuar evoluindo, explorando novas possibilidades e crescendo em um mercado cheio de criatividade e oportunidades.
-
+Gosto de tecnologia, design e de tirar ideias do papel. Estou sempre aprendendo coisa nova, melhorando o que já sei e buscando criar projetos cada vez melhores.
 
 <div align="center">
 
