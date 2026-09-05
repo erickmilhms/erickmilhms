@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Erick Milhomens · Mond" />
+<img src="./assets/hero-2026.svg" width="100%" alt="Erick Milhomens · Mond" />
 
 <br />
 
@@ -20,6 +20,6 @@ Gosto de transformar ideias em projetos reais e de estudar tecnologia todos os d
 
 **Design & Desenvolvimento Web**
 
-[Acessar Portfólio](https://mond-portfolioweb.vercel.app)
+[Acessar Portfólio](https://mondweb.vercel.app/)
 
 </div>
