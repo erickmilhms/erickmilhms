@@ -32,10 +32,14 @@ Hoje meu foco é continuar crescendo na área, ganhar cada vez mais experiência
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erickmilhms&hide_border=true&area=true" width="100%" alt="Gráfico de atividade do GitHub de Erick Milhomens" />
+[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=erickmilhms&theme=github-compact&hide_border=true&area=true)](https://github.com/erickmilhms)
 
 <br />
 
-<img src="./output/github-contribution-grid-snake.svg" width="100%" alt="Snake das contribuições de Erick Milhomens" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickmilhms/erickmilhms/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickmilhms/erickmilhms/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/erickmilhms/erickmilhms/output/github-contribution-grid-snake.svg" width="100%" alt="Snake das contribuições de Erick Milhomens" />
+</picture>
 
 </div>
