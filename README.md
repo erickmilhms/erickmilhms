@@ -25,3 +25,17 @@ Hoje meu foco é continuar crescendo na área, ganhar cada vez mais experiência
 [Acessar Portfólio](https://mondweb.vercel.app/)
 
 </div>
+
+---
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erickmilhms&hide_border=true&area=true" width="100%" alt="Gráfico de atividade do GitHub de Erick Milhomens" />
+
+<br />
+
+<img src="./output/github-contribution-grid-snake.svg" width="100%" alt="Snake das contribuições de Erick Milhomens" />
+
+</div>
